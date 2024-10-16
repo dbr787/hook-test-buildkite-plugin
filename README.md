@@ -1,6 +1,6 @@
 # Hook Test Buildkite Plugin
 
-A Buildkite plugin to test running all available [plugin hooks](https://buildkite.com/docs/agent/v3/hooks#job-lifecycle-hooks).
+A Buildkite plugin to test running all available [plugin hooks](https://buildkite.com/docs/agent/v3/hooks#job-lifecycle-hooks)
 
 ## Example
 
